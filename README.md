@@ -54,21 +54,5 @@
   <h3 style="color: #fff; font-family: 'Outfit', sans-serif;">Let's Build Together 🤝</h3>
   <p style="color: #a0a0b0; font-family: 'Outfit', sans-serif;">Looking to join an <b>AI-first company</b> or collaborate on exciting new ideas.</p>
   <br>
-  <p>
-    <a href="https://yusufbera.de">
-      <img src="https://cdn.simpleicons.org/googlechrome/0088ff" height="32" alt="Website" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://twitter.com/yusufbera_dev">
-      <img src="https://cdn.simpleicons.org/x/ffffff" height="32" alt="Twitter" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://instagram.com/yusufbera.dev">
-      <img src="https://cdn.simpleicons.org/instagram/E4405F" height="32" alt="Instagram" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://threads.net/@yusufbera.dev">
-      <img src="https://cdn.simpleicons.org/threads/ffffff" height="32" alt="Threads" />
-    </a>
-  </p>
+  [![Website](https://cdn.simpleicons.org/googlechrome/0088ff)](https://yusufbera.de) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Twitter](https://cdn.simpleicons.org/x/ffffff)](https://twitter.com/yusufbera_dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Instagram](https://cdn.simpleicons.org/instagram/E4405F)](https://instagram.com/yusufbera.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Threads](https://cdn.simpleicons.org/threads/ffffff)](https://threads.net/@yusufbera.dev)
 </div>
