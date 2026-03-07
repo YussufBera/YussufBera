@@ -47,22 +47,25 @@
 <br><br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YussufBera&show_icons=true&title_color=0088ff&icon_color=00f2ff&text_color=a0a0b0&bg_color=00000000&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YussufBera&layout=compact&title_color=0088ff&text_color=a0a0b0&bg_color=00000000&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=yusufberasln&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030307&title_color=0088ff&text_color=a0a0b0&icon_color=00f2ff" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufberasln&layout=compact&theme=tokyonight&hide_border=true&bg_color=030307&title_color=0088ff&text_color=a0a0b0" alt="Top Languages">
 </p>
 
----
+<br>
 
 <div align="center">
-  <b>Let's Build Together 🤝</b><br><br>
-  
+  <h3 style="color: #fff; font-family: 'Outfit', sans-serif;">Let's Build Together 🤝</h3>
+  <p style="color: #a0a0b0; font-family: 'Outfit', sans-serif;">Looking to join an <b>AI-first company</b> or collaborate on exciting new ideas.</p>
+  <br>
   <a href="https://yusufbera.de">
-    <img src="https://img.shields.io/badge/Website-yusufbera.de-0088ff?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/yusufbera.de-030307?style=for-the-badge&logo=googlechrome&logoColor=00f2ff&border=1&borderColor=0088ff" alt="Website" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/yusufbera">
-    <img src="https://img.shields.io/badge/LinkedIn-Yusuf_Bera_Arslan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-030307?style=for-the-badge&logo=linkedin&logoColor=0088ff&border=1&borderColor=0088ff" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://twitter.com/yusufbera">
-    <img src="https://img.shields.io/badge/Twitter-@yusufbera-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-030307?style=for-the-badge&logo=x&logoColor=ffffff&border=1&borderColor=0088ff" alt="Twitter" />
   </a>
 </div>
