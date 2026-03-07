@@ -3,7 +3,7 @@
   
   <br><br>
   
-  <a href="https://github.com/yusufberasln">
+  <a href="https://github.com/YussufBera">
     <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=2000&pause=1000&color=0088FF&center=true&vCenter=true&width=600&lines=I+build+products+people+actually+use.;AI-Focused+Software+Developer;Full-Stack+Engineer" alt="Typing SVG" />
   </a>
 </div>
@@ -47,8 +47,8 @@
 <br><br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yusufberasln&show_icons=true&title_color=0088ff&icon_color=00f2ff&text_color=a0a0b0&bg_color=00000000&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufberasln&layout=compact&title_color=0088ff&text_color=a0a0b0&bg_color=00000000&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=YussufBera&show_icons=true&title_color=0088ff&icon_color=00f2ff&text_color=a0a0b0&bg_color=00000000&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YussufBera&layout=compact&title_color=0088ff&text_color=a0a0b0&bg_color=00000000&hide_border=true" alt="Top Languages">
 </p>
 
 ---
