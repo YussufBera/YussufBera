@@ -57,15 +57,15 @@
   <a href="https://yusufbera.de">
     <img src="https://cdn.simpleicons.org/googlechrome/0088ff" height="32" alt="Website" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/yusufbera_dev">
     <img src="https://cdn.simpleicons.org/x/ffffff" height="32" alt="Twitter" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/yusufbera.dev">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" height="32" alt="Instagram" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://threads.net/@yusufbera.dev">
     <img src="https://cdn.simpleicons.org/threads/ffffff" height="32" alt="Threads" />
   </a>
