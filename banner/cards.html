@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yusuf Bera Arslan - Cards</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&family=JetBrains+Mono:wght@400;700&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --primary: #0088ff;
+            --secondary: #7000ff;
+            --accent: #00f2ff;
+            --bg-dark: #030307;
+            --text-main: #ffffff;
+            --text-muted: #a0a0b0;
+            --glass: rgba(255, 255, 255, 0.03);
+            --glass-border: rgba(255, 255, 255, 0.08);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background: transparent;
+            font-family: 'Outfit', sans-serif;
+            color: var(--text-main);
+            padding: 50px;
+            display: flex;
+            flex-direction: column;
+            gap: 50px;
+        }
+
+        .card-container {
+            width: 800px;
+            background: var(--glass);
+            border: 1px solid var(--glass-border);
+            border-radius: 24px;
+            padding: 40px;
+            position: relative;
+            overflow: hidden;
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            box-shadow: 0 30px 60px rgba(0, 0, 0, 0.4);
+        }
+
+        /* Ambient Glow per card */
+        .card-container::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: radial-gradient(circle at 50% 0%, rgba(112, 0, 255, 0.15), transparent 50%);
+            z-index: 0;
+            pointer-events: none;
+        }
+
+        .content {
+            position: relative;
+            z-index: 10;
+        }
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 20px;
+        }
+
+        .title {
+            font-size: 32px;
+            font-weight: 800;
+            background: linear-gradient(to right, #fff, var(--text-muted));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .subtitle {
+            font-size: 16px;
+            color: var(--accent);
+            font-weight: 600;
+            margin-bottom: 20px;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+        }
+
+        .description {
+            font-size: 18px;
+            color: var(--text-muted);
+            line-height: 1.6;
+            margin-bottom: 30px;
+        }
+
+        .tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .tag {
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 14px;
+            color: var(--text-main);
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        .status {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 14px;
+            color: #4ade80;
+            background: rgba(74, 222, 128, 0.1);
+            padding: 6px 12px;
+            border-radius: 20px;
+            font-weight: 600;
+        }
+
+        .status.app {
+            color: #60a5fa;
+            background: rgba(96, 165, 250, 0.1);
+        }
+
+        .status-dot {
+            width: 8px;
+            height: 8px;
+            background: currentColor;
+            border-radius: 50%;
+            box-shadow: 0 0 10px currentColor;
+        }
+
+        /* Specific Gradients */
+        .card-nelio::before {
+            background: radial-gradient(circle at 80% 0%, rgba(0, 136, 255, 0.2), transparent 50%);
+        }
+
+        .card-kelime::before {
+            background: radial-gradient(circle at 20% 0%, rgba(112, 0, 255, 0.2), transparent 50%);
+        }
+
+        .card-get4trip::before {
+            background: radial-gradient(circle at 50% 100%, rgba(0, 242, 255, 0.15), transparent 50%);
+        }
+
+        .card-about::before {
+            background: radial-gradient(circle at 50% 50%, rgba(112, 0, 255, 0.1), transparent 70%);
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- ABOUT ME CARD -->
+    <div class="card-container card-about" id="card-about">
+        <div class="content">
+            <div class="header">
+                <h2 class="title" style="font-size: 42px;">About Me</h2>
+                <div class="status">
+                    <div class="status-dot"></div>Available for new opportunities
+                </div>
+            </div>
+            <p class="description" style="font-size: 20px; color: #fff;">
+                I don't just write code.<br>
+                <span
+                    style="background: linear-gradient(90deg, var(--primary), var(--accent)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 800; font-size: 28px;">I
+                    build products people actually use.</span>
+            </p>
+            <p class="description">
+                Currently building AI-powered B2B SaaS solutions, studying Computer Science at the University of Bremen,
+                and publishing applications on the iOS App Store. My focus is on intelligent automation, LLM
+                integrations, and modern full-stack architectures.
+            </p>
+        </div>
+    </div>
+
+    <!-- NELIOSOFT CARD -->
+    <div class="card-container card-nelio" id="card-nelio">
+        <div class="content">
+            <div class="header">
+                <div>
+                    <div class="subtitle">B2B SaaS Booking System</div>
+                    <h2 class="title">NelioSoft</h2>
+                </div>
+                <div class="status">
+                    <div class="status-dot"></div>Live in Production (50+ Biz)
+                </div>
+            </div>
+            <p class="description">
+                A comprehensive cloud-based business management platform built solo. Features intelligent scheduling,
+                employee management, and specialized interfaces for hair and nail salons.
+            </p>
+            <div class="tags">
+                <span class="tag">TypeScript</span>
+                <span class="tag">Next.js</span>
+                <span class="tag">Node.js</span>
+                <span class="tag">AI Scheduling</span>
+                <span class="tag">Tailwind</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- KELIME EZBERDE CARD -->
+    <div class="card-container card-kelime" id="card-kelime">
+        <div class="content">
+            <div class="header">
+                <div>
+                    <div class="subtitle">iOS Application</div>
+                    <h2 class="title">Kelime Ezberde</h2>
+                </div>
+                <div class="status app">
+                    <div class="status-dot"></div>Published on App Store
+                </div>
+            </div>
+            <p class="description">
+                An intuitive mobile application designed to help users learn and memorize German vocabulary efficiently,
+                featuring seamless native UX and modern design principles.
+            </p>
+            <div class="tags">
+                <span class="tag">iOS</span>
+                <span class="tag">SwiftUI</span>
+                <span class="tag">Mobile UX</span>
+                <span class="tag">State Management</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- GET4TRIP CARD -->
+    <div class="card-container card-get4trip" id="card-get4trip">
+        <div class="content">
+            <div class="header">
+                <div>
+                    <div class="subtitle">Travel Platform</div>
+                    <h2 class="title">Get4Trip</h2>
+                </div>
+                <div class="status app" style="color: #c084fc; background: rgba(192, 132, 252, 0.1);">
+                    <div class="status-dot"></div>Active Development
+                </div>
+            </div>
+            <p class="description">
+                Modern travel and tourism web platform featuring a clean user experience, dynamic destination content,
+                and seamless booking workflows.
+            </p>
+            <div class="tags">
+                <span class="tag">React</span>
+                <span class="tag">Framer Motion</span>
+                <span class="tag">API Integration</span>
+                <span class="tag">UI/UX</span>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>
