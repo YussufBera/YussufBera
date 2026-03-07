@@ -4,7 +4,7 @@
   <br><br>
   
   <a href="https://github.com/YussufBera">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=2000&pause=1000&color=0088FF&center=true&vCenter=true&width=600&lines=I+build+products+people+actually+use.;AI-Focused+Software+Developer;Full-Stack+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=2000&pause=1000&color=0088FF&center=true&vCenter=true&width=600&lines=AI-Focused+Software+Developer;Full-Stack+Engineer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -46,10 +46,7 @@
 
 <br><br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yusufberasln&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030307&title_color=0088ff&text_color=a0a0b0&icon_color=00f2ff" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufberasln&layout=compact&theme=tokyonight&hide_border=true&bg_color=030307&title_color=0088ff&text_color=a0a0b0" alt="Top Languages">
-</p>
+
 
 <br>
 
@@ -58,18 +55,18 @@
   <p style="color: #a0a0b0; font-family: 'Outfit', sans-serif;">Looking to join an <b>AI-first company</b> or collaborate on exciting new ideas.</p>
   <br>
   <a href="https://yusufbera.de">
-    <img src="https://img.shields.io/badge/yusufbera.de-030307?style=for-the-badge&logo=googlechrome&logoColor=00f2ff&border=1&borderColor=0088ff" alt="Website" />
+    <img src="https://cdn.simpleicons.org/googlechrome/0088ff" height="32" alt="Website" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/yusufbera_dev">
-    <img src="https://img.shields.io/badge/Twitter-030307?style=for-the-badge&logo=x&logoColor=ffffff&border=1&borderColor=0088ff" alt="Twitter" />
+    <img src="https://cdn.simpleicons.org/x/ffffff" height="32" alt="Twitter" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/yusufbera.dev">
-    <img src="https://img.shields.io/badge/Instagram-030307?style=for-the-badge&logo=instagram&logoColor=E4405F&border=1&borderColor=E4405F" alt="Instagram" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="32" alt="Instagram" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://threads.net/@yusufbera.dev">
-    <img src="https://img.shields.io/badge/Threads-030307?style=for-the-badge&logo=threads&logoColor=ffffff&border=1&borderColor=ffffff" alt="Threads" />
+    <img src="https://cdn.simpleicons.org/threads/ffffff" height="32" alt="Threads" />
   </a>
 </div>
