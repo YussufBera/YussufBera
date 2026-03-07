@@ -61,11 +61,15 @@
     <img src="https://img.shields.io/badge/yusufbera.de-030307?style=for-the-badge&logo=googlechrome&logoColor=00f2ff&border=1&borderColor=0088ff" alt="Website" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/yusufbera">
-    <img src="https://img.shields.io/badge/LinkedIn-030307?style=for-the-badge&logo=linkedin&logoColor=0088ff&border=1&borderColor=0088ff" alt="LinkedIn" />
+  <a href="https://twitter.com/yusufbera_dev">
+    <img src="https://img.shields.io/badge/Twitter-030307?style=for-the-badge&logo=x&logoColor=ffffff&border=1&borderColor=0088ff" alt="Twitter" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/yusufbera">
-    <img src="https://img.shields.io/badge/Twitter-030307?style=for-the-badge&logo=x&logoColor=ffffff&border=1&borderColor=0088ff" alt="Twitter" />
+  <a href="https://instagram.com/yusufbera.dev">
+    <img src="https://img.shields.io/badge/Instagram-030307?style=for-the-badge&logo=instagram&logoColor=E4405F&border=1&borderColor=E4405F" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://threads.net/@yusufbera.dev">
+    <img src="https://img.shields.io/badge/Threads-030307?style=for-the-badge&logo=threads&logoColor=ffffff&border=1&borderColor=ffffff" alt="Threads" />
   </a>
 </div>
