@@ -1,9 +1,5 @@
 
   <br><br>
-  
-  <a href="https://github.com/YussufBera">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=2000&pause=1000&color=0088FF&center=true&vCenter=true&width=600&lines=AI-Focused+Software+Developer;Full-Stack+Engineer" alt="Typing SVG" />
-  </a>
 </div>
 
 <br>
