@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="banner/yusuf_bera_hero.png" width="100%" alt="Yusuf Bera Arslan Hero Banner">
-  
+
   <br><br>
   
   <a href="https://github.com/YussufBera">
