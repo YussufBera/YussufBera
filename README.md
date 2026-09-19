@@ -1,4 +1,4 @@
-<a href="https://yusufbera.de">
+<a href="https://yusufbera.dev">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
     <img alt="Hi, I'm Bera. I build the whole thing. Independent full-stack and mobile engineer in Bremen, currently building OurFlow." src="assets/banner-light.svg" width="100%">
@@ -6,7 +6,7 @@
 </a>
 
 <p align="center">
-  <a href="https://yusufbera.de"><img alt="Website" src="https://img.shields.io/badge/yusufbera.de-20231f?style=for-the-badge&logo=googlechrome&logoColor=d1ed8b"></a>
+  <a href="https://yusufbera.dev"><img alt="Website" src="https://img.shields.io/badge/yusufbera.dev-20231f?style=for-the-badge&logo=googlechrome&logoColor=d1ed8b"></a>
   <a href="mailto:contact@yusufbera.de"><img alt="Email" src="https://img.shields.io/badge/contact@yusufbera.de-4d652e?style=for-the-badge&logo=maildotru&logoColor=white"></a>
   <a href="https://ourflow.app"><img alt="OurFlow" src="https://img.shields.io/badge/ourflow.app-d1ed8b?style=for-the-badge&logoColor=20231f"></a>
   <a href="https://apps.apple.com/de/app/vetra-discover-events/id6772997447"><img alt="Vetra on the App Store" src="https://img.shields.io/badge/Vetra_on_the_App_Store-20231f?style=for-the-badge&logo=apple&logoColor=white"></a>
@@ -148,5 +148,5 @@ The trips, the dinners, the ordinary Fridays. OurFlow brings a group's memories,
 <p align="center">
   <b>Something in mind? Let's make it real.</b><br>
   <sub>Open to full-time, working student and internship roles in Germany, alongside my studies. Freelance and product conversations welcome too.</sub><br><br>
-  <a href="mailto:contact@yusufbera.de">contact@yusufbera.de</a> &nbsp;·&nbsp; <a href="https://yusufbera.de">yusufbera.de</a> &nbsp;·&nbsp; <a href="https://instagram.com/yusufbera.dev">Instagram</a>
+  <a href="mailto:contact@yusufbera.de">contact@yusufbera.de</a> &nbsp;·&nbsp; <a href="https://yusufbera.dev">yusufbera.dev</a> &nbsp;·&nbsp; <a href="https://instagram.com/yusufbera.dev">Instagram</a>
 </p>
